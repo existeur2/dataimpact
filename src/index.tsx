@@ -14,8 +14,8 @@ root.render(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/table" element={<Table/>} />
-        <Route path="/chart" element={<Chart/>} />
+        <Route path="/table" element={<></>} />
+        <Route path="/chart" element={<></>} />
       </Routes>
     </BrowserRouter>
   </StrictMode>

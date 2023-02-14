@@ -12,5 +12,6 @@ This project is destined for live coding technical interviews. The final result 
 * Make sure everything is well typed using Typescript
 * Create a responsive page layout for all the pages (navigation, left margin, right margin, centered container and footer) 
 * Fetch user list from the api using the route `/users` 
-* Complete the component **Table**. Todos are in the file `/src/pages/Table.tsx`
-* Complete the component **Chart**. Todos are in the file `/src/pages/Chart.tsx`
+* Complete the component **App**. Todos are in the file `/src/App.tsx` and make sure that it is displayed using the URL `/` and displays the complete user list
+* Complete the component **Table**. Todos are in the file `/src/pages/Table.tsx` and make sure that it is displayed using the URL `/table`
+* Complete the component **Chart**. Todos are in the file `/src/pages/Chart.tsx` and make sure that it is displayed using the URL `/chart`
